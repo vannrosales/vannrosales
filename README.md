@@ -1,5 +1,15 @@
-# 💫 About Me:
-👨‍💻 Giovanni Hanz Guino – BSIT, Cum Laude<br>Full-stack web developer specializing in PHP (Laravel ⚡, CodeIgniter 🚀), MySQL 🐘, HTML 🌐, CSS 🎨, JavaScript ✨, and Tailwind CSS 💎. Passionate about building responsive, user-friendly, and data-driven systems with clean and efficient code.<br><br>🚀 Key Projects<br><br>📑 Dean’s Office System – Automated administrative workflows, document tracking, and reporting to improve office efficiency.<br><br>📊 Extension Services Management System – Managed and monitored service programs with integrated data analytics for performance insights.<br><br>📚 Library Management System – Streamlined book inventory, borrowing records, and user account management with real-time tracking.
+# 👨‍💻 Giovanni Hanz Guino  
+
+🎓 BSIT, Cum Laude graduate  
+💻 Full-stack web developer experienced in PHP (Laravel ⚡, CodeIgniter 🚀), MySQL 🐘, HTML 🌐, CSS 🎨, JavaScript ✨, and Tailwind CSS 💎.  
+🔧 Focused on building responsive, user-friendly, and data-driven systems with clean, efficient code.  
+
+## 🚀 Key Projects  
+
+- 📑 **Dean’s Office System** – Automated administrative workflows, document tracking, and reporting to improve office efficiency.  
+- 📊 **Extension Services Management System** – Managed and monitored service programs with integrated data analytics for performance insights.  
+- 📚 **Library Management System** – Streamlined book inventory, borrowing records, and user account management with real-time tracking.  
+
 
 
 ## 🌐 Socials:
