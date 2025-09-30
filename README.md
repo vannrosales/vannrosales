@@ -8,7 +8,7 @@
 
 - 📑 **Dean’s Office System** – Automated administrative workflows, document tracking, and reporting to improve office efficiency.  
 - 📊 **Extension Services Management System** – Managed and monitored service programs with integrated data analytics for performance insights.  
-- 📚 **Library Management System** – Streamlined book inventory, borrowing records, and user account management with real-time tracking.  
+
 
 
 
