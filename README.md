@@ -20,15 +20,15 @@
 
 ### 💻 Tech Stack
 * ⚙️ **Languages & Core:** PHP, JavaScript, TypeScript, HTML5, CSS3
-* 🚀 **Frameworks:** Laravel, CodeIgniter, Vue.js, Django, React JS
+* 🚀 **Frameworks:** Laravel, CodeIgniter, Vue.js, Django, Alpine.js
 * 🎨 **Styling:** Tailwind CSS, Bootstrap
 * 🗄️ **Databases:** MySQL, MariaDB, PostgreSQL, Supabase
-* 🛠️ **Tools & Deployment:** Git, GitHub, JWT, Vercel, Netlify
+* 🛠️ **Tools & Deployment:** Git, GitHub, NPM, JWT, Vercel, Netlify
 
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vannrosales&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannrosales&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vannrosales&theme=tokyo-night&hide_border=true&display_legend=false" width="100%" />
 </p>
