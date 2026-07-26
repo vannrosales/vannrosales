@@ -13,17 +13,17 @@
 
 ### ⚡ What I Focus On
 * Designing robust backend architectures with **PHP (Laravel & CodeIgniter)** and **Python (Django)**.
-* Crafting dynamic, reactive user interfaces using **Vue.js** and **Alpine.js**.
+* Crafting dynamic, reactive user interfaces using **Vue.js** and **React JS**.
 * Ensuring clean, maintainable codebases focused on data integrity and performance.
 
 ---
 
 ### 💻 Tech Stack
 * ⚙️ **Languages & Core:** PHP, JavaScript, TypeScript, HTML5, CSS3
-* 🚀 **Frameworks:** Laravel, CodeIgniter, Vue.js, Django, Alpine.js
+* 🚀 **Frameworks:** Laravel, CodeIgniter, Vue.js, Django, React JS
 * 🎨 **Styling:** Tailwind CSS, Bootstrap
 * 🗄️ **Databases:** MySQL, MariaDB, PostgreSQL, Supabase
-* 🛠️ **Tools & Deployment:** Git, GitHub, NPM, JWT, Vercel, Netlify
+* 🛠️ **Tools & Deployment:** Git, GitHub, JWT, Vercel, Netlify
 
 ---
 
