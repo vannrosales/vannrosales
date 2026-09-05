@@ -2,20 +2,20 @@
 
   <!-- Header Banner / Typing Title -->
   <a href="https://github.com/vannrosales">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Giovanni+Hanz+Guino;Full-Stack+Web+%26+Software+Developer;Crafting+Fast%2C+Scalable+%26+Modern+Apps;React+%E2%80%A2+Vue+%E2%80%A2+Laravel+%E2%80%A2+Django+%E2%80%A2+Tauri" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Giovanni+Hanz+Guino;Full-Stack+Web+%26+Software+Developer;Generative+AI+%26+Intelligent+Web+Apps;React+%E2%80%A2+Vue+%E2%80%A2+Laravel+%E2%80%A2+Django+%E2%80%A2+Tauri+%E2%80%A2+GenAI" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Building high-performance, real-time, and data-driven web & desktop applications.</strong>
+    <strong>Building high-performance, real-time, data-driven, and AI-powered web & desktop applications.</strong>
   </p>
 
   <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="mailto:giovannihanzguino@gmail.com"><img src="https://img.shields.io/badge/Email-giovannihanzguino%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/vannrosales"><img src="https://img.shields.io/badge/GitHub-vannrosales-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.facebook.com/nnav.08" target="_blank"><img src="https://img.shields.io/badge/Facebook-nnav.08-18181b?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://www.instagram.com/008.vann" target="_blank"><img src="https://img.shields.io/badge/Instagram-008.vann-18181b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.tiktok.com/@008.vann" target="_blank"><img src="https://img.shields.io/badge/TikTok-@008.vann-18181b?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="mailto:giovannihanzguino@gmail.com"><img src="https://img.shields.io/badge/Email-giovannihanzguino%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/vannrosales"><img src="https://img.shields.io/badge/GitHub-vannrosales-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.facebook.com/nnav.08" target="_blank"><img src="https://img.shields.io/badge/Facebook-nnav.08-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/008.vann" target="_blank"><img src="https://img.shields.io/badge/Instagram-008.vann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.tiktok.com/@008.vann" target="_blank"><img src="https://img.shields.io/badge/TikTok-@008.vann-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   </p>
 
 </div>
@@ -24,15 +24,28 @@
 
 ### ◈ What I Focus On
 
--  **Full-Stack Architecture:** Designing robust, scalable backends with **PHP (Laravel, CodeIgniter)**, **Python (Django)**, and **Node.js**.
--  **Modern Frontend & Reactive UIs:** Crafting smooth, responsive, and intuitive client interfaces using **React 19**, **Vue.js**, **Vite**, and **Tailwind CSS**.
--  **Real-Time & P2P Engineering:** Developing low-latency distributed systems using **WebRTC (Peer-to-Peer)**, **WebSockets**, and **MQTT**.
--  **Cross-Platform Desktop Apps:** Building lightweight, secure native desktop applications with **Tauri (Rust + Web)**.
--  **Data Integrity & Security:** Designing secure databases and authentication flows with **PostgreSQL**, **Supabase (RLS)**, **MySQL**, **JWT**, and **OAuth 2.0 / Google One-Tap**.
+- ✦ **Full-Stack Architecture:** Designing robust, scalable backends with **PHP (Laravel, CodeIgniter)**, **Python (Django)**, and **Node.js**.
+- ✦ **Generative AI & LLM Systems:** Integrating multimodal AI APIs (**OpenAI**, **Google Gemini**, **Claude**), prompt engineering, and intelligent agents into web applications.
+- ✦ **Modern Frontend & Reactive UIs:** Crafting smooth, responsive, and intuitive client interfaces using **React 19**, **Vue.js**, **Vite**, **Tailwind CSS**, and **shadcn/ui**.
+- ✦ **Real-Time & P2P Engineering:** Developing low-latency distributed systems using **WebRTC (Peer-to-Peer)**, **WebSockets**, and **MQTT**.
+- ✦ **Cross-Platform Desktop Apps:** Building lightweight, secure native desktop applications with **Tauri (Rust + Web)**.
+- ✦ **Data Integrity & Security:** Designing secure databases and authentication flows with **PostgreSQL**, **Supabase (RLS)**, **MySQL**, **JWT**, and **OAuth 2.0 / Google One-Tap**.
 
 ---
 
 ### ❖ Tech Stack & Capabilities
+
+<details open>
+<summary><b>▷ Generative AI & Agentic</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+</details>
 
 <details open>
 <summary><b>▷ Languages & Core</b></summary>
@@ -77,6 +90,8 @@
   <img src="https://img.shields.io/badge/Lucide_Icons-F05032?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
 </p>
 </details>
+
+<details open>
 <summary><b>▷ Databases, Cloud & Real-Time</b></summary>
 <br>
 
