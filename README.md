@@ -2,8 +2,8 @@
 
   <!-- Header Banner / Typing Title -->
   <a href="https://github.com/vannrosales">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Giovanni+Hanz+Guino;Full-Stack+Web+%26+Software+Developer;Generative+AI+%26+Intelligent+Web+Apps;React+%E2%80%A2+Vue+%E2%80%A2+Laravel+%E2%80%A2+Django+%E2%80%A2+Tauri+%E2%80%A2+GenAI" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi%2C%20I'm%20Giovanni%20Hanz%20Guino;Full-Stack%20Web%20%26%20Software%20Developer;Generative%20AI%20%26%20Intelligent%20Web%20Apps;React%20%E2%80%A2%20Vue%20%E2%80%A2%20Laravel%20%E2%80%A2%20Django%20%E2%80%A2%20Tauri" alt="Typing SVG" />
+</a>
 
   <p align="center">
     <strong>Building high-performance, real-time, data-driven, and AI-powered web & desktop applications.</strong>
