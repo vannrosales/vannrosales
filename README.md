@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Typing Title -->
   <a href="https://github.com/vannrosales">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Giovanni+Hanz+Guino;Full-Stack+Web+%26+Software+Developer;Crafting+Fast%2C+Scalable+%26+Modern+Apps;React+%E2%80%A2+Vue+%E2%80%A2+Laravel+%E2%80%A2+Django+%E2%80%A2+Tauri" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Giovanni+Hanz+Guino;Full-Stack+Web+%26+Software+Developer;Crafting+Fast%2C+Scalable+%26+Modern+Apps;React+%E2%80%A2+Vue+%E2%80%A2+Laravel+%E2%80%A2+Django+%E2%80%A2+Tauri" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -11,31 +11,31 @@
 
   <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="mailto:giovannihanzguino@gmail.com"><img src="https://img.shields.io/badge/Email-giovannihanzguino%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/vannrosales"><img src="https://img.shields.io/badge/GitHub-vannrosales-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.facebook.com/nnav.08" target="_blank"><img src="https://img.shields.io/badge/Facebook-nnav.08-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://www.instagram.com/008.vann" target="_blank"><img src="https://img.shields.io/badge/Instagram-008.vann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.tiktok.com/@008.vann" target="_blank"><img src="https://img.shields.io/badge/TikTok-@008.vann-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="mailto:giovannihanzguino@gmail.com"><img src="https://img.shields.io/badge/Email-giovannihanzguino%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/vannrosales"><img src="https://img.shields.io/badge/GitHub-vannrosales-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.facebook.com/nnav.08" target="_blank"><img src="https://img.shields.io/badge/Facebook-nnav.08-18181b?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/008.vann" target="_blank"><img src="https://img.shields.io/badge/Instagram-008.vann-18181b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.tiktok.com/@008.vann" target="_blank"><img src="https://img.shields.io/badge/TikTok-@008.vann-18181b?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me & What I Focus On
+### ◈ What I Focus On
 
-- 🚀 **Full-Stack Architecture:** Architecting robust, scalable backends with **PHP (Laravel, CodeIgniter)**, **Python (Django)**, and **Node.js**.
-- 🎨 **Modern Frontend & Reactive UIs:** Crafting smooth, responsive, and intuitive client interfaces using **React 19**, **Vue.js**, **Vite**, and **Tailwind CSS**.
-- ⚡ **Real-Time & P2P Engineering:** Developing low-latency distributed systems using **WebRTC (Peer-to-Peer)**, **WebSockets**, and **MQTT**.
-- 🖥️ **Cross-Platform Desktop Apps:** Building lightweight, secure native desktop applications with **Tauri (Rust + Web)**.
-- 🛡️ **Data Integrity & Security:** Designing secure databases and authentication flows with **PostgreSQL**, **Supabase (RLS)**, **MySQL**, **JWT**, and **OAuth 2.0 / Google One-Tap**.
+-  **Full-Stack Architecture:** Designing robust, scalable backends with **PHP (Laravel, CodeIgniter)**, **Python (Django)**, and **Node.js**.
+-  **Modern Frontend & Reactive UIs:** Crafting smooth, responsive, and intuitive client interfaces using **React 19**, **Vue.js**, **Vite**, and **Tailwind CSS**.
+-  **Real-Time & P2P Engineering:** Developing low-latency distributed systems using **WebRTC (Peer-to-Peer)**, **WebSockets**, and **MQTT**.
+-  **Cross-Platform Desktop Apps:** Building lightweight, secure native desktop applications with **Tauri (Rust + Web)**.
+-  **Data Integrity & Security:** Designing secure databases and authentication flows with **PostgreSQL**, **Supabase (RLS)**, **MySQL**, **JWT**, and **OAuth 2.0 / Google One-Tap**.
 
 ---
 
-### 💻 Tech Stack & Skills
+### ❖ Tech Stack & Capabilities
 
 <details open>
-<summary><b>🛠️ Languages & Core</b></summary>
+<summary><b>▷ Languages & Core</b></summary>
 <br>
 
 <p align="left">
@@ -51,7 +51,7 @@
 </details>
 
 <details open>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
+<summary><b>▷ Frameworks & Libraries</b></summary>
 <br>
 
 <p align="left">
@@ -67,18 +67,17 @@
 </details>
 
 <details open>
-<summary><b>🎨 UI & Styling</b></summary>
+<summary><b>▷ UI & Styling</b></summary>
 <br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Lucide_Icons-F05032?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
 </p>
 </details>
-
-<details open>
-<summary><b>🗄️ Databases, Cloud & Real-Time</b></summary>
+<summary><b>▷ Databases, Cloud & Real-Time</b></summary>
 <br>
 
 <p align="left">
@@ -93,7 +92,7 @@
 </details>
 
 <details open>
-<summary><b>🛠️ Tools, Testing & Deployment</b></summary>
+<summary><b>▷ Tools, Testing & Deployment</b></summary>
 <br>
 
 <p align="left">
@@ -110,19 +109,19 @@
 
 ---
 
-### 🌟 Featured Project
+### ◈ Featured Project
 
-#### 🎬 [WarayFlix — High-Precision Cinema Discovery & Real-Time Sync Platform](https://github.com/vannrosales/waray-flix)
+#### ▷ [WarayFlix — High-Precision Cinema Discovery & Real-Time Sync Platform](https://github.com/vannrosales/waray-flix)
 > *A cutting-edge streaming application featuring P2P synchronized Watch Parties, multi-server latency resilience, and desktop client cross-compilation.*
 
-- **Frontend & App:** React 19, Vite, Tailwind CSS, Tauri (Rust).
-- **Real-Time Mesh:** WebRTC (PeerJS) & MQTT for zero-latency peer sync and live chat.
-- **Backend & Auth:** Supabase PostgreSQL, Row Level Security, Google Identity Services (One-Tap).
-- **Testing:** 65/65 Unit & Integration test coverage with Vitest.
+- ✦ **Frontend & App:** React 19, Vite, Tailwind CSS, Tauri (Rust).
+- ✦ **Real-Time Mesh:** WebRTC (PeerJS) & MQTT for zero-latency peer sync and live chat.
+- ✦ **Backend & Auth:** Supabase PostgreSQL, Row Level Security, Google Identity Services (One-Tap).
+- ✦ **Testing:** 65/65 Unit & Integration test coverage with Vitest.
 
 ---
 
-### 📊 GitHub Analytics
+### ❖ GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vannrosales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -136,6 +135,4 @@
 <div align="center">
   <img src="https://ghchart.rshah.org/38bdf8/vannrosales" alt="Giovanni's GitHub Contribution Chart" width="100%" />
 </div>
-
----
 
