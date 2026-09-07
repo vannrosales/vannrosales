@@ -36,7 +36,7 @@
 ### ❖ Tech Stack & Capabilities
 
 <details open>
-<summary><b>▷ Generative AI & Agentic</b></summary>
+<summary><b> Generative AI & Agentic</b></summary>
 <br>
 
 <p align="left">
@@ -48,7 +48,7 @@
 </details>
 
 <details open>
-<summary><b>▷ Languages & Core</b></summary>
+<summary><b> Languages & Core</b></summary>
 <br>
 
 <p align="left">
@@ -64,7 +64,7 @@
 </details>
 
 <details open>
-<summary><b>▷ Frameworks & Libraries</b></summary>
+<summary><b> Frameworks & Libraries</b></summary>
 <br>
 
 <p align="left">
@@ -80,7 +80,7 @@
 </details>
 
 <details open>
-<summary><b>▷ UI & Styling</b></summary>
+<summary><b> UI & Styling</b></summary>
 <br>
 
 <p align="left">
@@ -92,7 +92,7 @@
 </details>
 
 <details open>
-<summary><b>▷ Databases, Cloud & Real-Time</b></summary>
+<summary><b> Databases, Cloud & Real-Time</b></summary>
 <br>
 
 <p align="left">
@@ -107,7 +107,7 @@
 </details>
 
 <details open>
-<summary><b>▷ Tools, Testing & Deployment</b></summary>
+<summary><b> Tools, Testing & Deployment</b></summary>
 <br>
 
 <p align="left">
