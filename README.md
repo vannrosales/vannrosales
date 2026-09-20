@@ -24,12 +24,12 @@
 
 ### ◈ What I Focus On
 
-✦ **Full-Stack Architecture:** Designing robust, scalable backends with **PHP (Laravel, CodeIgniter)**, **Python (Django)**, and **Node.js**.
-✦ **Generative AI & LLM Systems:** Integrating multimodal AI APIs (**OpenAI**, **Google Gemini**, **Claude**)
-✦ **Modern Frontend & Reactive UIs:** Crafting smooth, responsive, and intuitive client interfaces using **React 19**, **Vue.js**, **Vite**, **Tailwind CSS**, and **shadcn/ui**.
-✦ **Real-Time & P2P Engineering:** Developing low-latency distributed systems using **WebRTC (Peer-to-Peer)**, **WebSockets**, and **MQTT**.
-✦ **Cross-Platform Desktop Apps:** Building lightweight, secure native desktop applications with **Tauri (Rust + Web)**.
-✦ **Data Integrity & Security:** Designing secure databases and authentication flows with **PostgreSQL**, **Supabase (RLS)**, **MySQL**, **JWT**, and **OAuth 2.0 / Google One-Tap**.
+- **Full-Stack Architecture:** Designing robust, scalable backends with **PHP (Laravel, CodeIgniter)**, **Python (Django)**, and **Node.js**.
+- **Generative AI & LLM Systems:** Integrating multimodal AI APIs (**OpenAI**, **Google Gemini**, **Claude**) and Agentic Skills
+- **Modern Frontend & Reactive UIs:** Crafting smooth, responsive, and intuitive client interfaces using **React 19**, **Vue.js**, **Vite**, **Tailwind CSS**, and **shadcn/ui**.
+- **Real-Time & P2P Engineering:** Developing low-latency distributed systems using **WebRTC (Peer-to-Peer)**, **WebSockets**, and **MQTT**.
+- **Cross-Platform Desktop Apps:** Building lightweight, secure native desktop applications with **Tauri (Rust + Web)**.
+- **Data Integrity & Security:** Designing secure databases and authentication flows with **PostgreSQL**, **Supabase (RLS)**, **MySQL**, **JWT**, and **OAuth 2.0 / Google One-Tap**.
 
 ---
 
