@@ -124,18 +124,6 @@
 
 ---
 
-### ◈ Featured Project
-
-#### ▷ [WarayFlix — High-Precision Cinema Discovery & Real-Time Sync Platform](https://github.com/vannrosales/waray-flix)
-> *A cutting-edge streaming application featuring P2P synchronized Watch Parties, multi-server latency resilience, and desktop client cross-compilation.*
-
-- ✦ **Frontend & App:** React 19, Vite, Tailwind CSS, Tauri (Rust).
-- ✦ **Real-Time Mesh:** WebRTC (PeerJS) & MQTT for zero-latency peer sync and live chat.
-- ✦ **Backend & Auth:** Supabase PostgreSQL, Row Level Security, Google Identity Services (One-Tap).
-- ✦ **Testing:** 65/65 Unit & Integration test coverage with Vitest.
-
----
-
 ### ❖ GitHub Analytics
 
 <div align="center">
